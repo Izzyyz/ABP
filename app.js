@@ -13,6 +13,13 @@ const products = [
     price: 34.50,
     image: "https://images.unsplash.com/photo-1614632537190-23e4146777db?w=500"
   },
+  {
+    id: 3,
+    name: "Smartwatch Deportivo Pro",
+    category: "Accesorios",
+    price: 199.00,
+    image: "https://images.unsplash.com/photo-1510017803434-a899398421b3?w=500"
+  }
 ];
 
 let cart = [];
