@@ -104,6 +104,13 @@ const products = [
     price: 18.00,
     image: "https://images.unsplash.com/photo-1530549387789-4c1017266635?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 16,
+    name: "Rodillo Foam Roller para Masajes",
+    category: "Equipamiento",
+    price: 27.50,
+    image: "https://images.unsplash.com/photo-1600881333168-2ef49b341f30?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
