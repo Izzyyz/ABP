@@ -90,6 +90,13 @@ const products = [
     price: 756.00,
     image: "https://images.unsplash.com/photo-1559348349-86f1f65817fe?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 14,
+    name: "Pantalón Sudadera de Entrenamiento",
+    category: "Ropa",
+    price: 45.00,
+    image: "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
