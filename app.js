@@ -69,6 +69,13 @@ const products = [
     price: 151.99,
     image: "https://images.unsplash.com/photo-1598289431512-b97b0917affc?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 11,
+    name: "Gorra Deportiva Transpirable",
+    category: "Accesorios",
+    price: 22.50,
+    image: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
