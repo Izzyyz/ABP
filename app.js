@@ -112,6 +112,7 @@ const products = [
     image: "https://images.unsplash.com/photo-1600881333168-2ef49b341f30?q=80&w=600&auto=format&fit=crop"
   },
   
+  }
 ];
 
 let cart = [];
