@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SportX - Tienda Deportiva</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="navbar">
+    <h1 class="logo">Sport<span>X</span></h1>
+    <button class="cart-trigger" onclick="toggleCart()">
+      🛒 Carrito <span id="cart-badge">0</span>
+    </button>
+  </header>
+
+  <main class="container">
+    <h2 class="title">Productos Destacados</h2>
+    <div id="product-grid" class="product-grid"></div>
+  </main>
+
+  <div id="cart-sidebar" class="sidebar hidden">
+    <h3>Tu Carrito</h3>
+    <ul id="cart-list"></ul>
+    <div class="cart-footer">
+      <p>Total: $<span id="cart-total">0.00</span></p>
+      <button class="btn-close" onclick="toggleCart()">Cerrar</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
