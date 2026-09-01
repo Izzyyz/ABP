@@ -48,6 +48,13 @@ const products = [
     price: 29.99,
     image: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 8,
+    name: "Botella de Agua Acero Inox. 1L",
+    category: "Accesorios",
+    price: 18.50,
+    image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
