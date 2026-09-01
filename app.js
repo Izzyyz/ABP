@@ -27,6 +27,14 @@ const products = [
     price: 95.99,
     image: "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=500"
   },
+  {
+    id: 5,
+    name: "Set de Mancuernas de Acero",
+    category: "Equipamiento",
+    price: 42.00,
+    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=600&auto=format&fit=crop"
+  },
+  
 ];
 
 let cart = [];
