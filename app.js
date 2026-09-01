@@ -55,6 +55,13 @@ const products = [
     price: 18.50,
     image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 9,
+    name: "Mochila Deportiva Impermeable",
+    category: "Accesorios",
+    price: 48.00,
+    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=600&auto=format&fit=crop"
+  }
   
 ];
 
