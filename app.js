@@ -41,6 +41,13 @@ const products = [
     price: 25.00,
     image: "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 7,
+    name: "Camiseta Dry-Fit de Entrenamiento",
+    category: "Ropa",
+    price: 29.99,
+    image: "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
