@@ -1,5 +1,11 @@
 const products = [
-  
+  {
+    id: 1,
+    name: "Nike Air Zoom Sport",
+    category: "Calzado",
+    price: 129.99,
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+  }
 ];
 
 let cart = [];
