@@ -34,6 +34,13 @@ const products = [
     price: 42.00,
     image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 6,
+    name: "Mat de Yoga Fitness (Morado)",
+    category: "Equipamiento",
+    price: 25.00,
+    image: "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
