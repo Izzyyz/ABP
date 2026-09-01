@@ -97,6 +97,13 @@ const products = [
     price: 45.00,
     image: "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 15,
+    name: "Gafas de Natación Anti-empañante",
+    category: "Accesorios",
+    price: 18.00,
+    image: "https://images.unsplash.com/photo-1530549387789-4c1017266635?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
