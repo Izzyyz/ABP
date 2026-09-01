@@ -83,6 +83,13 @@ const products = [
     price: 49.99,
     image: "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 13,
+    name: "Bicicleta profesional de pista",
+    category: "Accesorios",
+    price: 756.00,
+    image: "https://images.unsplash.com/photo-1559348349-86f1f65817fe?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
