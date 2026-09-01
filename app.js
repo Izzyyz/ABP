@@ -76,6 +76,13 @@ const products = [
     price: 22.50,
     image: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=600&auto=format&fit=crop"
   },
+  {
+    id: 12,
+    name: "Kettlebell de Hierro Fundido 12kg",
+    category: "Equipamiento",
+    price: 49.99,
+    image: "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
