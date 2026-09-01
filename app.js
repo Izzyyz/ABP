@@ -5,7 +5,14 @@ const products = [
     category: "Calzado",
     price: 129.99,
     image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
-  }
+  },
+  {
+    id: 2,
+    name: "Balón Oficial de Fútbol",
+    category: "Equipamiento",
+    price: 34.50,
+    image: "https://images.unsplash.com/photo-1614632537190-23e4146777db?w=500"
+  },
 ];
 
 let cart = [];
