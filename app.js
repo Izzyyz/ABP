@@ -19,7 +19,14 @@ const products = [
     category: "Accesorios",
     price: 199.00,
     image: "https://images.unsplash.com/photo-1510017803434-a899398421b3?w=500"
-  }
+  },
+  {
+    id: 4,
+    name: "Tacos de Fútbol Profesional",
+    category: "Calzado",
+    price: 95.99,
+    image: "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=500"
+  },
 ];
 
 let cart = [];
