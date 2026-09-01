@@ -61,7 +61,14 @@ const products = [
     category: "Accesorios",
     price: 48.00,
     image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=600&auto=format&fit=crop"
-  }
+  },
+  {
+    id: 10,
+    name: "Bicleta electrica estatica",
+    category: "Equipamiento",
+    price: 151.99,
+    image: "https://images.unsplash.com/photo-1598289431512-b97b0917affc?q=80&w=600&auto=format&fit=crop"
+  },
   
 ];
 
